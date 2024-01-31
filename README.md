@@ -10,7 +10,7 @@ This is Human Computer Interface about job board.
 ## Statement: 
   - As international students, we often face various restrictions when job hunting. To address this, we designed a job-search website based on HCI (Human-Computer Interaction) specifically for students. We took into consideration various CRAP (Contrast, Repetition, Alignment, Proximity) design principles and conducted several peer reviews and user tests.
 ## Software:
-  - Axure pro 10
+  - Axure RP 10
 ## test username & passwd: 
   - username: hci
   - passwd: 123

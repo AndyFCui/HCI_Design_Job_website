@@ -44,19 +44,19 @@ a.	Extra Task: Apply for new positions
 The Qualtrics Survey Usability Test
 The testers start the usability test after entering their participant ID.
 1.	The testers are asked to login the app with the credential we provide to them
-●	Task 1: Authentication (log in with NU credentials)
+  ●	Task 1: Authentication (log in with NU credentials)
 2.	The testers play the role of a student who just finished their co-op. They found that they would like to add a review to one of the jobs.
-●	Task 2: Adding and rating a co-op on various parameters
+  ●	Task 2: Adding and rating a co-op on various parameters
 3.	The testers decide to search for new co-op job and view its reviews and rates
-●	Task 3: Search companies/roles and view their reviews/ratings
+  ●	Task 3: Search companies/roles and view their reviews/ratings
 4.	The testers find the job they are interested in and try to apply for the job.
-●	Task 9 (Extra): Apply for the job
+  ●	Task 9 (Extra): Apply for the job
 5.	The testers find it would be a good way to search for jobs based on some limitation. They  decide to find the jobs with the nearest location.
-●	Task 4: Filter search results by role/location/rating
+  ●	Task 4: Filter search results by role/location/rating
 6.	The testers eventually find some companies and positions you are interested in. They decided to have a deeper investigation about its ratings and hourly rate. 
-●	Task 5: View companies with best ratings/best hourly rate
-●	Task 6: View a visual representation of a company’s average rate
+  ●	Task 5: View companies with best ratings/best hourly rate
+  ●	Task 6: View a visual representation of a company’s average rate
 7.	The testers decide to check their profile
-●	Task 7: View one’s own profile and timeline of past coops with company name, roles, and review code to check their profile
+  ●	Task 7: View one’s own profile and timeline of past coops with company name, roles, and review code to check their profile
 8.	The testers go back to the main page and view the recommendation after set their area of interest in the profile page.
-●	Task 8: View recommendations for coop roles
+  ●	Task 8: View recommendations for coop roles
